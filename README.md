@@ -4,7 +4,7 @@ In this project the core functionality of the autonomous vehicle system, includi
 ### Documentation
 1. [Instructions for setting up development environment](https://github.com/udacity/CarND-Capstone)
 2. System architecture  
-
+  ![ros](./imgs/ros.png)
 
 ### Implementation details
 
